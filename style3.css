@@ -41,7 +41,7 @@ body{
 
 #loader4::before, #loader4::after{
     content: '';
-    background-color: royalblue;
+    background-color:royalblue;
     /* border-radius: 50%; */
     height: 50px;
     width: 8px;
@@ -102,7 +102,7 @@ body{
     width: 20px;
     background-color: transparent;
     border:1px solid royalblue;
-    background-color: royalblue;;
+    background-color: royalblue;
     /* border-radius: 50%; */
     animation: square 1s ease-in-out infinite;
     animation-duration: 2s;;
